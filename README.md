@@ -2,7 +2,7 @@
 
 This project provides World of Warcraft rotation profiles tailored for various classes in PVP/PVE scenarios. The scripts are designed to automate key actions, optimize rotations, and enhance performance during different combat engagements.
 
-Each script is optimized for a specific class and is tested within the context of World of Warcraft Wrath of the Lich King, patch 3.3.5a. Testing has been primarily conducted on the Warmane server. You can modify spell id on each file if your server is usind different id. I'd recommend checking out dimonsky addon for spell id, check out his discord channel.
+Each profile is optimized for a specific class and is tested within the context of World of Warcraft Wrath of the Lich King, patch 3.3.5a. Testing has been primarily conducted on the Warmane server.
 
 ## Getting Started
 
@@ -13,9 +13,10 @@ To use the class-specific rotation profiles, follow the steps below:
 
 ### Installation
 
-1. Place the downloaded `.enc` script into the `Ni Folder\Addons\Rotations\[Class]` directory.
-2. Launch the NI Program. Uncheck all options except for WoTLK, then select the `wow.exe` file and click "Launch."
-3. Log in to your character of the specified class.
+1. Extract NI zip file. Place it anywhere. You can put it in you desktop.
+2. Place the downloaded `.enc` profile into the `Ni Folder\Addons\Rotations\[Class]` directory.
+3. Launch the NI Program. Uncheck all options except for WoTLK, then select the `wow.exe` file and click "Launch."
+4. Log in to your character of the specified class.
 
 ### Usage
 
