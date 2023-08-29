@@ -9,13 +9,13 @@ Each script is optimized for a specific class and is tested within the context o
 To use the class-specific rotation profiles, follow the steps below:
 
 1. Download the latest release of the NI Program: [NI Program by darhanger](https://github.com/darhanger/ni).
-2. Download your chosen profile `.lua` from this list above for you character.
+2. Download your chosen profile `.enc` from this list above for you character.
 
 ### Installation
 
-1. Place the downloaded `.lua` script into the `Ni Folder\Addons\Rotations\[Class]` directory.
+1. Place the downloaded `.enc` script into the `Ni Folder\Addons\Rotations\[Class]` directory.
 2. Launch the NI Program. Uncheck all options except for WoTLK, then select the `wow.exe` file and click "Launch."
-3. Log in to your character of the specified class (e.g., Holy Paladin).
+3. Log in to your character of the specified class.
 
 ### Usage
 
