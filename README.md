@@ -1,48 +1,46 @@
 # Class-Specific PVP Rotation Profiles for NI Program
 
-This project provides World of Warcraft rotation profiles tailored for various classes in PVP/PVE scenarios. The scripts are designed to automate key actions, optimize rotations, and enhance performance during different combat engagements.
-
-Each profile is optimized for a specific class and is tested within the context of World of Warcraft Wrath of the Lich King, patch 3.3.5a. Testing has been primarily conducted on the Warmane server.
+This project offers tailored World of Warcraft rotation profiles for various classes in PVP/PVE situations. 
+The scripts automate key actions, optimize rotations, and enhance combat performance.
+Optimized for specific classes and tested in World of Warcraft Wrath of the Lich King (patch 3.3.5a) on the Warmane server.
 
 ## Getting Started
 
-To use the class-specific rotation profiles, follow the steps below:
-
-1. Download the latest release of the NI Program: [NI Program by darhanger](https://github.com/darhanger/ni).
-2. Download your chosen profile `.enc` from this list above for you character.
+1. Download the latest [NI Program by darhanger](https://github.com/darhanger/ni) release.
+2. Get your chosen `.enc` profile from the list above.
 
 ### Installation
 
-1. Extract NI zip file. Place it anywhere. You can put it in you desktop.
-2. Place the downloaded `.enc` profile into the `Ni Folder\Addons\Rotations\[Class]` directory.
-3. Launch the NI Program. Uncheck all options except for WoTLK, then select the `wow.exe` file and click "Launch."
-4. Log in to your character of the specified class.
+1. Extract the NI zip file anywhere, e.g., desktop.
+2. Place downloaded `.enc` profile in `Ni Folder\Addons\Rotations\[Class]`.
+3. Launch NI Program, uncheck all options except WoTLK, select `wow.exe`, click "Launch."
+4. Log in to your specified class character.
 
 ### Usage
 
-1. In the game, click on the minimap icon to access NI settings.
-2. Within the Primary Rotation or any other Rotation slot, click dropdown menu and select the corresponding profile for your class.
-3. Press the assigned key (default is F1 key) to initiate the Primary Rotation or use the designated toggle key.
-4. The top menu is auto-hidden; you can edit threshold values to suit your preferences.
+1. In-game, click minimap icon for NI settings.
+2. Pick the class-specific profile from Primary Rotation or another slot's dropdown menu.
+3. Press assigned key (default: F1) or toggle key to start Primary Rotation.
+4. Edit auto-hidden top menu's threshold values as desired.
 
 ### Reset
 
-If you need to reset the settings to their default values:
+To reset settings to default:
 
-1. Navigate to the `Ni Folder\Addons\Settings` directory.
-2. Locate and delete the file named `[Class].json`.
-3. Reload the user interface by typing `/reload` in-game.
+1. Go to `Ni Folder\Addons\Settings`.
+2. Delete `[Class].json` file.
+3. Reload UI with `/reload` in-game.
 
 ### Notes
 
-- **Stay Updated:** Make sure to regularly check for new releases of the NI Program by Darhangar and use the latest version available. Link is above.
+- **Stay Updated:** Regularly check for NI Program releases by Darhangar for the latest version.
 
-- **Community Support:** If you come across any issues or have questions, feel free to join Darhangar's discord group. The community there is to help and support.
+- **Community Support:** Join Darhangar's Discord group for help and support.
 
-- **Profile Background:** These profiles were crafted as a personal hobby. please understand that profile support might be limited.
+- **Profile Background:** These profiles were crafted as a personal hobby, limited support.
 
-- **Expert Recommendations:** For optimal results, I recommend relying on profiles authored by Darhangar for PVE scenarios and Dimonsky for PVP scenarios. Those profiles have a proven track record of being well-maintained and thoroughly tested.
+- **Expert Recommendations:** For optimal results use Darhangar's PVE, Dimonsky's PVP profiles.
 
 ## Disclaimer
 
-Please note that these scripts are intended for educational purposes only. The use of automation tools (bots) in World of Warcraft may violate the game's Terms of Service and result in the suspension or termination of your game account. Use these scripts at your own risk.
+These scripts are for educational purposes. Using automation tools in WoW may violate ToS, risking account suspension/termination. Use at your own risk.
