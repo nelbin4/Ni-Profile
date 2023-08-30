@@ -4,6 +4,8 @@ This project offers tailored World of Warcraft rotation profiles for various cla
 The scripts automate key actions, optimize rotations, and enhance combat performance.
 Optimized for specific classes and tested in World of Warcraft Wrath of the Lich King (patch 3.3.5a) on the Warmane server.
 
+![WoWScrnShot_071323_095658](https://github.com/nelbin4/Ni-Profile/assets/20941975/7a05f44b-bbe4-448f-ab4d-a3e08bd8dc3b)
+
 ## Getting Started
 
 1. Download the latest [NI Program by darhanger](https://github.com/darhanger/ni) release.
