@@ -1,4 +1,4 @@
-# Class-Specific PVP Rotation Profiles for NI Program
+# Rotation Profiles for NI Program
 
 This project offers tailored World of Warcraft rotation profiles for various classes in PVP/PVE situations. 
 The scripts automate key actions, optimize rotations, and enhance combat performance.
@@ -7,25 +7,22 @@ Optimized for specific classes and tested in World of Warcraft Wrath of the Lich
 ## Getting Started
 
 1. Download the latest [NI Program by darhanger](https://github.com/darhanger/ni) release.
-2. Get your chosen `.enc` profile from the list above.
+2. Download your prefered `.enc` file from the list above.
 
 ### Installation
 
 1. Extract the NI zip file anywhere, e.g., desktop.
-2. Place downloaded `.enc` profile in `Ni Folder\Addons\Rotations\[Class]`.
+2. Place `.enc` file in `Ni Folder\Addons\Rotations\[Class]`.
 3. Launch NI Program, uncheck all options except WoTLK, select `wow.exe`, click "Launch."
-4. Log in to your specified class character.
 
 ### Usage
 
 1. In-game, click minimap icon for NI settings.
-2. Pick the class-specific profile from Primary Rotation or another slot's dropdown menu.
-3. Press assigned key (default: F1) or toggle key to start Primary Rotation.
-4. Edit auto-hidden top menu's threshold values as desired.
+2. Pick a profile for Primary Rotation slot's dropdown menu.
+3. Press assigned key (default: F1) to run.
+4. Hover mouse on top of the screen for profile settings.
 
-### Reset
-
-To reset settings to default:
+### Reset to default
 
 1. Go to `Ni Folder\Addons\Settings`.
 2. Delete `[Class].json` file.
